@@ -1,0 +1,16 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.local
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+.DS_Store
