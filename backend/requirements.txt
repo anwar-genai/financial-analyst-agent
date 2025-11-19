@@ -8,3 +8,7 @@ tavily-python
 langserve[all]
 pydantic
 python-dotenv
+yfinance
+pandas
+numpy
+matplotlib
